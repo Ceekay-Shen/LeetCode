@@ -1,81 +1,41 @@
-# LeetCode 面试必备
- - 💪 就是干！如果你觉得有帮助请点个star，谢谢！
-* [ApacheCN 开源组织](https://github.com/apachecn/organization): https://github.com/apachecn/organization
+<div align="center">
+    <a href="https://www.apachecn.org">
+        <img width="200" src="http://data.apachecn.org/img/logo.jpg">
+    </a>
+    <br>
+    <a href=""> <img src="https://img.shields.io/badge/%3E-awesome-red.svg"></a> <a href=""><a href="https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Python"> <img src="https://img.shields.io/badge/%3E-algorithm-red.svg"></a> <a href="https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/Python"> <img src="https://img.shields.io/badge/%3E-leetcode-red.svg"></a> 
+</div>
 
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
-
-* 英文官网: https://leetcode.com
-* 中文官网: https://leetcode-cn.com
-* **LeetCode 刷题群 | ApacheCN【812791932】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1d390faa76fe789a0068dadae4ab9b0f0fc7997c38f216e9a30172866163a49d"><img border="0" src="/images/MainPage/ApacheCN-group.png" alt="LeetCode 刷题 | ApacheCN " title="LeetCode 刷题 | ApacheCN "></a>**
-* [<font color=green>ApacheCN repo 地址</font>](https://github.com/apachecn/leetcode): https://github.com/apachecn/leetcode
-
-## LeetCode 习题集合
-
-* [LeetCode 习题集合](/docs/Leetcode_Solutions)
-
-## 算法 汇总集合
-
-* [算法 汇总集合](/docs/Algorithm)
-* [八大排序算法 集合](/docs/Algorithm/Sort)
-* [Wikipedia: List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
-
-## 模版要求
-
-> 提交PR基本要求（满足任意一种即可）
-
-* 1. 不一样的思路
-* 2. 优化时间复杂度和空间复杂度，或者解决题目的Follow up
-* 3. 有意义的简化代码
-* 4. 未提交过的题目
-
-> **案例模版**
-
-[模版：007. Reverse Integer 反转整数](/docs/Leetcode_Solutions/007._Reverse_Integer.md)
-
-## 推荐 LeetCode 网站
-
-1. [KrisYu的Github](https://github.com/KrisYu/LeetCode-CLRS-Python)
-2. [kamyu104的Github](https://github.com/kamyu104/LeetCode)
-3. [数据结构与算法/leetcode/lintcode题解](https://algorithm.yuanbin.me/zh-hans/)
-4. [Leetcode 讨论区](https://discuss.leetcode.com/)
-5. [visualgo算法可视化网站](https://visualgo.net/en)
-6. [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-7. [我的算法学习之路 - Lucida](http://zh.lucida.me/blog/on-learning-algorithms/)
-8. [HiredInTech](https://www.hiredintech.com/) System Design 的总结特别适合入门
-9. [mitcc的Github](https://github.com/mitcc/AlgoSolutions)
-10. [小土刀的面试刷题笔记](http://wdxtub.com/interview/14520594642530.html)
-11. [nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)
-12. [剑指 Offer 题解](https://github.com/gatieme/CodingInterviews)
-13. https://algorithm.yuanbin.me/zh-hans
-14. https://github.com/liuchuo/LeetCode
-15. https://github.com/anxiangSir/SwordforOffer
-16. https://www.nowcoder.com/ta/coding-interviews?page=1
-17. [【小姐姐】刷题博客](https://www.liuchuo.net/about)
-18. [公瑾的Github](https://github.com/yuzhoujr/leetcode)
-19. [shejie1993](https://shenjie1993.gitbooks.io/leetcode-python/content/096%20Unique%20Binary%20Search%20Trees.html)
+<h1 align="center">结构化算法刷题训练指南</h1>
 
 
-## 项目贡献者
+> 公告声明 
 
-> 项目基石
+该项目 暂停更新，迁移至： 
 
-* [KrisYu的Github](https://github.com/KrisYu/LeetCode-CLRS-Python)
+1. 项目地址: <https://github.com/apachecn/Interview>
+2. 刷题地址: <https://github.com/apachecn/Interview/blob/master/docs/Algorithm/README.md>
 
-> Please note, this repository is inspired from [KrisYu](https://github.com/KrisYu/LeetCode-CLRS-Python). However, it has been modified, added and improved to reflect our knowledge, wisdom and effort.
+> 事件声明
 
-> 项目发起人
+最开始该项目是 [@片刻](https://github.com/jiangzhonglian) 和 [@小瑶](https://github.com/chenyyx) 为了求职面试所发起的，打算从0开始！ 后来 [Lisanaaa](https://github.com/Lisanaaa) 说愿意提供他的项目100多道题（该项目来源与另外一个小哥哥 [KrisYu的Github](https://github.com/KrisYu/LeetCode-CLRS-Python)，也有同意的邮件授权！），后来组织就删掉了原本建的项目，使用了 [Lisanaaa](https://github.com/Lisanaaa) 的项目。
 
-* [@Lisanaaa](https://github.com/Lisanaaa)
-* [@片刻](https://github.com/jiangzhonglian)
+由于 [Lisanaaa](https://github.com/Lisanaaa) 个人商业化原因，主动删除他自己的代码（<https://github.com/apachecn/awesome-algorithm/tree/master/docs/Leetcode_Solutions/Python>， 其中包括组织部分人的更新和优化）, 严重损害了读者和各位贡献者的权益。所以**组织和他解除了关系，直接清退**。
 
-> 贡献者（欢迎大家来追加）
+在项目归宿上面，我和他有进行深入讨论，但无法达成共识。这个项目如果给他，他名利双收，损害了组织和其他贡献者的权益，组织和其他贡献者拒绝接受！这个项目如果交给组织，他不同意，他说这是他的项目。（说实话，我真的蛮想笑），所以该项目不再更新，迁移至新的项目上，该项目会长期冻结，以警醒ApacheCN，贡献者 或者其他的开源组织！
 
-* [@Lisanaaa](https://github.com/Lisanaaa)
-* [@片刻](https://github.com/jiangzhonglian)
-* [@小瑶](https://github.com/chenyyx)
+> 事件启发
 
-## 免责声明
+以后所有的项目，如果捐赠到 ApacheCN 上：
 
-ApacheCN 纯粹出于学习目的与个人兴趣整理的内容。
+1. 请保持项目的协议合法性和开源性，我们都是非商业化协议。
+2. 以后捐赠，就不要再说是你自己的一个人的项目了，这个就是组织项目。（项目成长就不是你一个的功劳！）
+3. 所有在 ApacheCN 平台上的项目，不能以牺牲组织和读者的利益为前提，来牟取个人私利，如果违反，一律清退。
+4. 谢谢 [Lisanaaa](https://github.com/Lisanaaa) 逼着我们成长，让我们认清更多的人与事。
 
-整理内容只供学习研究参考之用。ApacheCN 保留对此版本内容的署名权及其它相关权利。
+以上内容，ApacheCN具有最终解释权，ApacheCN支持个人基于组织内容做创业，但绝不允许以牺牲组织和读者为前提。
+
+> 补充说明
+
+* 飞龙 | ApacheCN: 如果开源项目有了通用的商业模式，ApacheCN 无疑会是受益最大的。但是我们不能仅仅依赖其他项目，我们要自己寻找变现途径。
+* 片刻 | ApacheCN: 再次申明，如果ApacheCN最大的受益者，那么我觉得最最大的受益者是这群一直在贡献的人，因为文档的负责人就是为热心的人准备的，只要你愿意，随时都可以申请当负责人，我们的衡量标准就是热心、积极、有责任感；没有什么学历、公司背景、薪资水平、工作年限的要求！至于变现，就是如何利用文档产生价值，让用户和自己收益。ApacheCN 永远都只是一个开源资源存放地，怎么利用，就是各位贡献者脑洞大开的事情了！ 而我们几个创始人，也算是贡献者的一部分，一样也需要不断的去寻找变现的途径，和ApacheCN 达到共赢，而是独自占有，这的确不符合我们开源组织的气质！ 所以期待有想法愿意参与变现的人，从而实现ApacheCN和贡献者的共赢，而不是单方面！
